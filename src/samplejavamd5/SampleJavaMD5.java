@@ -49,7 +49,7 @@ public class SampleJavaMD5 {
     {
 
         System.out.println("\n\nEncriptando la clave 1234 con MD5!!!!: '"+encriptaEnMD5("1234")+"'");
-        System.out.println("Encriptacion la clave oper en MD5!!!!: '"+encriptaEnMD5("oper")+"'");
+        System.out.println("Encripta la clave oper en MD5!!!!: '"+encriptaEnMD5("oper")+"'");
 
     }
 }
